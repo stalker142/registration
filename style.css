@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+	padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Source Serif 4', sans-serif;
+    line-height:1.5
+}
+.container {
+    width: 220px;
+    margin: 0 auto;
+
+}
+
+h1{
+    margin-bottom: 10px;
+    font-size:32px;
+}
+label{
+    margin-bottom: 20px;
+}
+form{
+    display: flex;
+    flex-direction:column;
+}
+
+.buton_submit{
+    width: 140px;
+}
+
+.input_checkbox{
+    margin-right: 10px;
+}
+
+.label_checkbox{
+    width: 220px;
+    font-size:15px;
+}
